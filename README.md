@@ -1,4 +1,4 @@
-## Hi there! I'm Ferdi, a passionate Web & Software Developer 👋
+## Hi there! I'm Ferdi, a passionate Web Developer & Data Analyst 👋
 
 #### These are some things about's me :
 - 🔭 I am currently studying in the Mathematics Study Program, Faculty of Mathematics and Natural Sciences, Universitas Sebelas Maret.
